@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', (e) => {
-  const path = 'audio1.mp3';
+  const path = 'music.mp3';
 
   let audioCtx;
   let sourceNode;
